@@ -33,6 +33,8 @@ int main(){
     // i = current item
     // j = current capacity of the knapsack
     // dpVector[i][j] = maximum value possible to a knapsack with the i first items and j capacity
+
+    // we're using a bottom-up approach since it is better in space complexity
     for(int i = 1; i <= n; i++){
         for(int j = 1; j <= capacity; j++){
             if(weights[i] <= j){  // can add i item to the knapsack
