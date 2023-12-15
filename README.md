@@ -6,7 +6,7 @@ Welcome to the Dynamic Programming Studies Repository! 🧠 Here, we delve into 
 
 ## Contributions
 
-Feel free to contribute by adding new dynamic programming solutions, optimizing existing ones, or sharing insights into tackling complex problems. Let's build a library of efficient algorithms and unravel the threads of dynamic programming together! 💡🔗
+Feel free to contribute by adding new dynamic programming solutions, optimizing existing ones, or sharing insights into tackling complex problems💡🔗
 
 ## Acknowledgments
 
